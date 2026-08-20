@@ -1,0 +1,8 @@
+{
+  "extraPaths": [
+    "C:\\Desktop\\anaconda3\\Lib\\site-packages",
+    "c:\\Desktop\\Projects\\python projects\\object_detection"
+  ],
+  "reportMissingImports": false,
+  "reportMissingModuleSource": false
+}

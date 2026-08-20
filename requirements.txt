@@ -1,0 +1,26 @@
+# VisionGuard AI — Production Dependencies
+
+# Computer Vision & Deep Learning
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+cvzone>=1.6.0
+dlib>=19.24.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Object Tracking & Math
+filterpy>=1.4.5
+numpy>=1.24.0
+scipy>=1.10.0
+pandas>=2.0.0
+
+# Web Applications & Streaming
+streamlit>=1.30.0
+flask>=3.0.0
+
+# Audio & Speech (Assistive & Alerts)
+pyttsx3>=2.90
+
+# Services & Utilities
+requests>=2.31.0
+python-dotenv>=1.0.0
